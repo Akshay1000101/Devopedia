@@ -1,2 +1,3 @@
-void main(){
-printf("hello");}
+int main(){
+printf("hello");
+return;}
